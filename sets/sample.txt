@@ -1,0 +1,85 @@
+Calculus
+# Radians
+Radian form of 30°|π/6
+Radian form of 45°|π/4
+Radian form of 60°|π/3|60° is a third of 180°, so it's π/3
+Radian form of 90°|π/2
+Radian form of 120°|2π/3
+Radian form of 135°|3π/4
+Radian form of 150°|5π/6
+# Revolutions and conversions
+How much is 1 revolution?|360 = 2π
+How much is half a revolution|180 = π
+Convert Degrees to Radians|Multiply by π/180°
+Convert Radians to Degrees|Multiply by 180°/π
+# Definitions
+What is a coterminal angle?|An angle that has the same terminal side
+Define a complementary angle|Adds up to 90°
+Define a supplementary angle|Adds up to 180°
+Reciprocal Function|Flip it
+Cofunction|Same value at complement angle
+# Formulas
+Arc Length Formula|s=rθ
+Area of a Sector Formula|A=1/2r²θ
+Angular Speed Formula|w=θ/t
+Linear Speed Formula|v=s/t=rw
+r = ?|√x²+y²
+# Right triangle ratios
+Sinθ = ?|Opposite/Hypotenuse
+Cosθ = ?|Adjacent/Hypotenuse
+Tanθ = ?|Opposite/Adjacent
+Cscθ = ?|Hypotenuse/Opposite
+Secθ = ?|Hypotenuse/Adjacent
+Cotθ = ?|Adjacent/Opposite
+# Reciprocals
+Reciprocal of Sinθ|Cscθ
+Reciprocal of Cosθ|Secθ
+Reciprocal of Tanθ|Cotθ
+# Identities
+Quotient Identity of Tanθ|Sinθ/Cosθ
+Quotient Identity of Cotθ|Cosθ/Sinθ
+Main Pythagorean Identity|Sin²θ + Cos²θ = 1
+Tanθ Pythagorean Identity|1 + Tan²θ = Sec²θ
+Cotθ Pythagorean Identity|1 + Cot²θ = Csc²θ
+# Exact values
+Sin45° = ?|√2/2
+Cos45° = ?|√2/2
+Tan45° = ?|1
+Csc45° = ?|√2
+Sec45° = ?|√2
+Cot45° = ?|1
+Sin30° = ?|1/2
+Cos30° = ?|√3/2
+Tan30° = ?|√3/3
+Csc30° = ?|2
+Sec30° = ?|2√3/3
+Cot30° = ?|√3
+Sin60° = ?|√3/2
+Cos60° = ?|1/2
+Tan60° = ?|√3
+Csc60° = ?|2√3/3
+Sec60° = ?|2
+Cot60° = ?|√3/3
+# Positive functions by quadrant
+What functions are positive in QI|All 6 are (+)
+What functions are positive in QII|Sin and Csc are (+)
+What functions are positive in QIII|Tan and Cot are (+)
+What functions are positive in QIV|Cos and Sec are (+)
+# Coordinate signs
+(x,y) in QI|(+,+)
+(x,y) in QII|(-,+)
+(x,y) in QIII|(-,-)
+(x,y) in QIV|(+,-)
+Sign of r|Always (+)
+# Coordinate ratios
+Sin = ?|y/r
+Cos = ?|x/r
+Tan = ?|y/x
+Csc = ?|r/y
+Sec = ?|r/x
+Cot = ?|x/y
+# Reference angles
+Reference Angle Formula in QI|α = θ
+Reference Angle Formula in QII|α = 180º - θ
+Reference Angle Formula in QIII|α = θ - 180º
+Reference Angle Formula in QIV|α = 360º - θ
